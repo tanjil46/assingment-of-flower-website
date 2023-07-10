@@ -323,4 +323,33 @@
 
 
 
+                          /*FOOTER SECTION STARTED*/
+
+
+.footer{
+text-align: center;
+background-color: black;
+padding: 100px 130px;
+
+}
+
+.footer-heading{
+    color: white;
+    font-size: 35px;
+}
+
+
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.712);
+    padding: 15px 0;
+}
+
+
+
+.flower{
+    color: rgb(236, 14, 69);
+}
+
+
+
                               
