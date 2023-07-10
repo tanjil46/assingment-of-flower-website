@@ -50,7 +50,7 @@
 
    }
 
-   .first-para{
+   .first-paragraph{
     padding: 10px 0;
    }
 
@@ -58,3 +58,98 @@
    .flower1{
     width: 400px;
    }
+
+                       /*FEATURED STYLE STARTS FROM HERE*/
+
+
+
+  .featured-container{
+    
+    text-align: center;
+    padding: 100px 130px;
+  }
+
+
+
+.featured-flowers{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+
+
+
+
+
+
+   .first-featured-flower1{
+    
+    background-color:rgb(255, 248, 220) ;
+    border-top-left-radius:150px ;
+    border-top-right-radius: 150px;
+    width: 300px;
+    
+    padding-top: 100px;
+    
+    
+    
+   }  
+   
+   
+   .featured-img1{
+    width: 150px;
+    
+    
+    
+    
+
+   }
+
+
+
+
+
+
+   .first-featured-flower2{
+    
+    background-color: rgb(220, 220, 220);
+    border-top-left-radius:150px ;
+    border-top-right-radius: 150px;
+    width: 300px;
+    padding-top: 100px;
+   }
+
+
+
+   .first-featured-flower3{
+    
+    background-color:rgb(250, 235, 215) ;
+    border-top-left-radius:150px ;
+    border-top-right-radius: 150px;
+    width: 300px;
+    padding-top: 100px;
+    
+   }
+
+   .featured-heading{
+    font-size: 30px;
+    padding-bottom: 10px;
+   }
+
+   .featured-paragraph{
+    color: rgba(0, 0, 0, 0.74);
+    padding-bottom: 20px;
+   }
+
+   .featured-bottom{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+   }
+   .bottom-title{
+    border-bottom: 1px solid black;
+   }
+
+                       /*FEATURED STYLE ENDED*/
