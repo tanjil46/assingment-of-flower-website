@@ -156,7 +156,73 @@
 
 
 
-                       /*DISCOUNT WITH 25% STYLE STATRS*/
+
+
+
+
+                    /*MY OWN MADE SECTIOM STYLE */
+
+
+.my-own-make-container{
+        margin: 100px 0;
+        padding: 90px 130px;
+        background-color:rgba(250, 231, 224, 0.87) ;
+        text-align: center;
+       
+    }                
+
+.flowers-craft{
+ display: flex;
+ justify-content: space-around;
+ gap: 20px;
+
+
+                    }
+                    
+.flower-craft{
+ width: 190px;
+text-align: center;
+background-color:plum;
+border: 1px solid cadetblue;
+box-shadow: 2px 2px 2px 2px black;
+                        
+    }
+                    
+                    
+ .flower1{
+width: 190px;
+ height: 190px;
+                       
+    }
+.flower-title{
+font-size: 20px;
+                        
+     }
+    
+ .flowers-to-order{
+    font-size: 30px;
+    padding-bottom: 30px;
+ }                   
+                    
+                    
+                    
+                    
+.prize{
+ color:white;
+ font-size: 30px;
+                    }
+
+ .flower-craft:hover{
+    box-shadow: 4px 4px 4px 4px white;
+ }                   
+                    
+                    
+                    /*MY OWN MADE SECTION STYLE END*/
+                    
+                    
+                    
+                    
+                     /*DISCOUNT WITH 25% STYLE STATRS*/
 
 
  .discount-rose-container{
