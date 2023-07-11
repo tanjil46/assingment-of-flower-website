@@ -35,7 +35,7 @@
     justify-content: space-around;
     align-items: center;
     background-color:rgb(255, 248, 220) ;
-    padding: 100px 130px;
+    padding: 0 130px;
    }
 
 
@@ -183,14 +183,14 @@
 .flower-craft{
  width: 190px;
 text-align: center;
-background-color:plum;
+background-color:rgb(127, 255, 0) ;
 border: 1px solid cadetblue;
-box-shadow: 2px 2px 2px 2px black;
+
                         
     }
                     
                     
- .flower11{
+ .flower-craft-order{
 width: 190px;
  height: 190px;
                        
@@ -202,16 +202,24 @@ font-size: 20px;
     
  .flowers-to-order{
     font-size: 30px;
-    padding-bottom: 30px;
+    
  }                   
                     
                     
-                    
+  .chose-to-order{
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+  }                  
+
+
+
                     
 .prize{
- color:white;
+ color:rgba(255, 0, 0, 0.644);
  font-size: 30px;
-                    }
+ 
+}
 
                   
                     
@@ -402,10 +410,15 @@ padding: 100px 130px;
     font-size: 35px;
 }
 
-
 .footer-paragraph{
     color: rgba(255, 255, 255, 0.712);
     padding: 15px 0;
+}
+
+.footer-paragraph-2{
+    color: rgba(255, 255, 255, 0.712);
+    padding: 15px 0;
+    font-size: 12px;
 }
 
 
@@ -416,4 +429,6 @@ padding: 100px 130px;
 
 
 
-                              
+
+
+                              /*THE END OF STYLE OF THIS WEBSITE*/
